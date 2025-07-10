@@ -1,11 +1,12 @@
 Image of PCB attached to robot with microcontroller
 
-<img width="539" alt="Screenshot 2025-07-09 at 10 23 46 PM" src="https://github.com/user-attachments/assets/e242c72d-25f0-481f-9592-04d2ebcd1de7" />
+<img width="556" alt="Screenshot 2025-07-09 at 10 36 39 PM" src="https://github.com/user-attachments/assets/2034efba-7ab5-47c1-97de-bf47c395aa89" />
 
 Flowchart
 
-<img width="482" alt="Screenshot 2025-07-09 at 10 24 12 PM" src="https://github.com/user-attachments/assets/f9edf4eb-d534-4954-bfe8-5743bae1d0c8" />
-<img width="561" alt="Screenshot 2025-07-09 at 10 23 59 PM" src="https://github.com/user-attachments/assets/f0c7b87e-81f3-4463-9e31-1ddfc96f7619" />
+<img width="437" alt="Screenshot 2025-07-09 at 10 37 03 PM" src="https://github.com/user-attachments/assets/e7f10bf7-f4b6-4ecf-912d-b08d47da12af" />
+<img width="602" alt="Screenshot 2025-07-09 at 10 37 12 PM" src="https://github.com/user-attachments/assets/fe68f5df-fd7e-4dea-a1cc-9132770ba781" />
+
 
 Abstract
 
